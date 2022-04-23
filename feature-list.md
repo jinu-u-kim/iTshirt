@@ -1,4 +1,3 @@
 #기능 목록 (Feature list)
 1. 티셔츠 올리기 (upload T-shirts)
 2. 티셔츠 구매하기 (buy T-shirts)
-3. 장바구니 담기 
